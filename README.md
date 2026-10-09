@@ -2,6 +2,8 @@
 
 A comprehensive C++ implementation of a memory management system that simulates paging, virtual memory, and process management using the Least Recently Used (LRU) page replacement algorithm. This is first change by me(tanu).This is merge related changes.
 
+THis is tanu work, done first.
+
 ## 📋 Table of Contents
 
 - [Overview](#overview)

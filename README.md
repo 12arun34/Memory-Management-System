@@ -1,6 +1,6 @@
 # Memory Management System with Paging and Virtual Memory
 
-A comprehensive C++ implementation of a memory management system that simulates paging, virtual memory, and process management using the Least Recently Used (LRU) page replacement algorithm. This is first change by me(tanu).
+A comprehensive C++ implementation of a memory management system that simulates paging, virtual memory, and process management using the Least Recently Used (LRU) page replacement algorithm. This is first change by me(tanu).This is merge related changes.
 
 ## 📋 Table of Contents
 
